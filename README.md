@@ -25,4 +25,4 @@ Importing the Libraries :
  
 CONCLUSION 
 
-  Car accidents account for approximately 3% of global GDP and are also the leading cause of death among children and young adults. And accidents tend to repeat in the same spot, often twice. So we've created an accident forecasting program that can predict car crashes and identify high-risk areas to deal with them. from the developed high-resolution risk map It is based on data from past car crashes, road maps, satellite images and GPS tracking.
+  Car accidents account for approximately 3% of global GDP and are also the leading cause of death among children and young adults. And accidents tend to repeat in the same spot, often twice. So we've created an accident forecasting program that can predict car crashes and identify high-risk areas to deal with them. from the developed high-resolution risk map It is based on data from past car crashes, road maps, satellite images ,graph images and GPS tracking.
